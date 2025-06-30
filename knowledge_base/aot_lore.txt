@@ -1,0 +1,72 @@
+# Shingeki no Kyojin: Lore Knowledge Base
+# Created and structured by Masab Farooque for the LoreBot project.
+# This file contains summarized, factual information about the world of Attack on Titan.
+
+=== Core Concepts: The World of Attack on Titan ===
+
+The Nine Titans:
+The Nine Titans are unique powers that can be inherited by Subjects of Ymir. An inheritor gains the power but is fated to die after 13 years due to the "Curse of Ymir".
+- The Founding Titan: Can control other Titans and alter the memories of Subjects of Ymir. Requires royal blood to use its full power. Held by Eren Yeager.
+- The Attack Titan: Can see the memories of its future inheritors, effectively allowing it to see the future. Held by Eren Yeager.
+- The Colossal Titan: Enormous in size and can emit immense amounts of steam. Initially held by Bertholdt Hoover, later inherited by Armin Arlert.
+- The Armored Titan: Covered in dense, hardened armor plates. Held by Reiner Braun.
+- The Female Titan: Highly versatile with great endurance and the ability to attract Pure Titans with its scream. Held by Annie Leonhart.
+- The Beast Titan: Takes on animal-like characteristics. Held by Zeke Yeager, it took the form of a large ape and could turn Subjects of Ymir into Pure Titans with a scream.
+- The Jaw Titan: Extremely fast and agile with a powerful jaw and claws capable of crushing almost anything. Held by Marcel Galliard, then Ymir, then Porco Galliard, and finally Falco Grice.
+- The Cart Titan: Has exceptional endurance, able to remain in Titan form for long periods. Can be outfitted with weapon systems. Held by Pieck Finger.
+- The War Hammer Titan: Can create and control structures out of hardened Titan flesh, including weapons. Held by Lara Tybur, later consumed by Eren Yeager.
+
+The Walls:
+The three concentric Walls on Paradis Island are named Wall Maria (outermost), Wall Rose (middle), and Wall Sina (innermost). They were created by King Karl Fritz approximately 100 years before the story begins. The Walls are made of millions of Colossal Titans, standing shoulder-to-shoulder and encased in hardened skin.
+
+Nations and Peoples:
+- Eldia: The nation of the "Subjects of Ymir," the only race capable of turning into Titans. For a century, they lived on Paradis Island, believing they were the last of humanity.
+- Marley: A powerful, militaristic nation across the sea that subjugated the Eldians who remained on the mainland. Marley used Titans as weapons of war and viewed the Eldians on Paradis as "devils."
+- Subjects of Ymir: Descendants of Ymir Fritz. They are all connected through a metaphysical realm known as "The Paths." The Founding Titan can command them through these paths.
+- The Ackerman Clan: A bloodline that was the result of Titan science. They possess physical abilities far superior to an average human and are immune to the Founding Titan's memory alteration. Key members include Mikasa Ackerman and Levi Ackerman.
+
+The Paths and The Coordinate:
+The Paths are an invisible, metaphysical channel that connects all Subjects of Ymir and the Nine Titans. At its center is "The Coordinate," the power of the Founding Titan, where all paths converge. This is where Ymir Fritz resided for 2000 years, building Titans from the sand.
+
+=== Major Events ===
+
+The Fall of Shiganshina (Year 845):
+The story begins when the Colossal Titan (Bertholdt Hoover) and the Armored Titan (Reiner Braun) breach Wall Maria. This allows Pure Titans to flood the Shiganshina District. During this attack, Eren Yeager's mother, Carla, is eaten by a Titan. Later, Eren's father, Grisha Yeager, injects him with a Titan serum, causing Eren to eat him and inherit the Attack Titan and the Founding Titan.
+
+The Battle of Trost (Year 850):
+Five years later, the Colossal Titan reappears and breaches Wall Rose's Trost District. During the battle, Eren is swallowed by a Titan but awakens his Attack Titan power for the first time, fighting other Titans. He later uses his Titan form to carry a giant boulder and seal the breach in the wall, marking humanity's first-ever victory against the Titans.
+
+The Raid on Liberio (Year 854):
+Eren Yeager launches a surprise attack on Marley during an international festival in Liberio. The Survey Corps assists him. During this raid, Eren kills Willy Tybur and consumes his sister, Lara Tybur, to inherit the War Hammer Titan. This act declares war on the entire world. Sasha Blouse is killed during the retreat.
+
+The Rumbling:
+This was Eren Yeager's final plan. By making contact with his royal-blooded half-brother Zeke, he undid the hardening of the Walls, unleashing the millions of Colossal Titans within. His goal was to have these Titans trample the entire world outside of Paradis, destroying all life to end the cycle of hatred and ensure the survival of his friends and his people. He succeeded in wiping out 80% of the global population before being stopped.
+
+The End of the Power of the Titans:
+The Rumbling was stopped when Mikasa Ackerman killed Eren. This act freed Ymir Fritz from her 2000-year servitude to the royal family, and as a result, the Power of the Titans vanished from the world entirely. All existing Pure Titans returned to their human forms, and the curse of Ymir was lifted.
+
+=== Key Characters ===
+
+Eren Yeager:
+The main protagonist. His initial goal was to kill all Titans. After learning the truth about the world, his goal shifted to protecting his home, Paradis Island. He held the Attack, Founding, and War Hammer Titans. He initiated The Rumbling to destroy the world but was ultimately stopped and killed by Mikasa.
+
+Mikasa Ackerman:
+Eren's childhood friend and a member of the Ackerman clan, making her an incredibly skilled soldier. She was fiercely protective of Eren. Her choice to kill Eren, despite her love for him, was the key to freeing Ymir Fritz and ending the Titan curse.
+
+Armin Arlert:
+Eren's other childhood friend and a brilliant military strategist. He inherited the Colossal Titan from Bertholdt Hoover. After the Rumbling, he became a key ambassador for peace talks between Paradis and the surviving nations.
+
+Levi Ackerman:
+Known as "Humanity's Strongest Soldier." He was the captain of the Special Operations Squad within the Survey Corps. He held a deep grudge against Zeke Yeager for his actions.
+
+Zeke Yeager:
+Eren's royal-blooded paternal half-brother and holder of the Beast Titan. His plan was to use the Founding Titan to euthanize all Subjects of Ymir to end the suffering caused by Titans. He was used by Eren to activate the Rumbling and was later killed by Levi.
+
+Reiner Braun, Bertholdt Hoover, Annie Leonhart:
+Warriors from Marley who infiltrated Paradis Island. They were the Armored, Colossal, and Female Titans, respectively. They were responsible for the initial attack that started the story.
+
+Ymir Fritz:
+The original founder of the Titans. As a slave girl 2000 years ago, she came into contact with the "Source of all living matter" and became the first Titan. After her death, her soul was bound to The Paths, where she obeyed the commands of the royal family for millennia. Eren and Mikasa's actions ultimately set her free.
+
+Historia Reiss:
+A member of the true royal family who initially lived under the alias "Krista Lenz." She became the Queen of the Walls after a coup d'état overthrew the false monarchy.

@@ -1,0 +1,39 @@
+/* Created by Masab Farooque for the LoreBot project */
+
+/* Set the background for the main app area */
+[data-testid="stAppViewContainer"] {
+    background-image: url(data:image/jpg;base64,...); /* We will inject the image data here via Python */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Make the main content block semi-transparent */
+[data-testid="stVerticalBlock"] .st-emotion-cache-16txtl3 {
+    background-color: rgba(10, 10, 25, 0.75); /* Dark blue with 75% opacity */
+    border-radius: 15px;
+    padding: 2rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Style the chat messages */
+[data-testid="stChatMessage"] {
+    background-color: rgba(50, 50, 80, 0.6); /* Slightly lighter purple-blue */
+    border-radius: 10px;
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+/* Style the title */
+h1 {
+    color: #E0E0E0; /* Light grey for text */
+    text-shadow: 2px 2px 4px #000000;
+}
+
+/* Style the subtitle "Created by..." */
+.st-emotion-cache-16txtl3 > p {
+    color: #A0A0A0;
+    font-style: italic;
+    text-align: center;
+}
