@@ -17,7 +17,15 @@ LoreBot is your friendly companion for exploring the deep lore of Attack on Tita
 
 ---
 
-## 🛠️ How to Run
+## �️ Screenshot
+
+![App Screenshot](assets/screenshot.png)
+
+*Add your screenshot to `assets/screenshot.png` for it to appear here!*
+
+---
+
+## �🛠️ How to Run
 1. **Clone the repo**
    ```bash
    git clone https://github.com/Masab12/aot-lore-bot.git
