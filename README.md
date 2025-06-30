@@ -20,9 +20,6 @@ LoreBot is your friendly companion for exploring the deep lore of Attack on Tita
 ## �️ Screenshot
 
 ![App Screenshot](assets/screenshot.png)
-
-*Add your screenshot to `assets/screenshot.png` for it to appear here!*
-
 ---
 
 ## �🛠️ How to Run
